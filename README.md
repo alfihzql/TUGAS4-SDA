@@ -2,7 +2,9 @@
 
 <div>
     <img src="https://img.shields.io/badge/-C-0373fc?logo=c&logoColor=white&style=for-the-badge">
-</div>    
+</div> 
+
+[](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 ### Nama  : Muhammad Hizqil Alfi
 ### NPM   : 2308107010046
