@@ -34,6 +34,8 @@ Compile (untuk angka) :
 ```c
 gcc -o main_a main_angka.c -lpsapi
 ```
+![image](https://github.com/user-attachments/assets/ea7f81da-943b-45c8-ad55-0a9bba5615a7)
+
 
 Compile (untuk kata) :
 ```c
