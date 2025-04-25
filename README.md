@@ -31,9 +31,7 @@ Dalam repository ini terdapat 3 file utama yaitu :
 Untuk menjalankan file source code, 3 file utama harus dalam satu folder yang sama.
 
 Compile (untuk angka) :
-![image](https://github.com/user-attachments/assets/88b59fd1-0842-4ad0-b9a2-f7946826553f)
-
-
+![image](https://github.com/user-attachments/assets/d6abb7f4-81a8-4acd-85e1-e310d7f91ee1)
 
 Compile (untuk kata) :
 ```c
