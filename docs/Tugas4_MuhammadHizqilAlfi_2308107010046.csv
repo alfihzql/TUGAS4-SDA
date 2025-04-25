@@ -1,0 +1,42 @@
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,Angka,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,Jumlah Data ,10.000,,,Jumlah Data ,50.000,,,Jumlah Data ,100.000,,,Jumlah Data ,250.000,,,Jumlah Data ,500.000,,,Jumlah Data ,1.000.000,
+,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory
+,Bubble ,0.14s,4.58MB,,Bubble ,3.51s,4.65MB,,Bubble ,17.7s,4.65MB,,Bubble ,142s,5.95MB,,Bubble ,476.2s,8.35MB,,Bubble ,1881s,12.14MB
+,Selection,0.07s,4.59MB,,Selection,1.80s,4.65MB,,Selection,7.3s,4.65MB,,Selection,40.16s,5.96MB,,Selection,128.8s,8.35MB,,Selection,656.3s,12.14MB
+,Insertion,0.038s,4.60MB,,Insertion,1.01s,4.65MB,,Insertion,4.56s,4.65MB,,Insertion,26.15s,5.96MB,,Insertion,96.7s,8.36MB,,Insertion,385s,12.14MB
+,Merge,0.005s,4.65MB,,Merge,0.02s,4.65MB,,Merge,0.04s,4.72MB,,Merge,0.064s,6.41MB,,Merge,0.155s,10.18MB,,Merge,0.261s,15.73MB
+,Quick,0.002s,4.65MB,,Quick,0.006s,4.65MB,,Quick,0.011s,4.72MB,,Quick,0.023s,6.41MB,,Quick,0.06s,10.18MB,,Quick,0.130s,15.73MB
+,Shell,0.002s,4.65MB,,Shell,0.011s,4.65MB,,Shell,0.021s,4.72MB,,Shell,0.042s,6.41MB,,Shell,0.130s,10.18MB,,Shell,0.22s,15.73MB
+,,,,,,,,,,,,,,,,,,,,,,,
+,Jumlah Data ,1.500.000,,,Jumlah Data ,2.000.000,,,,,,,,,,,,,,,,,
+,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory,,,,,,,,,,,,,,,,
+,Bubble ,4218s,15.74MB,,Bubble ,6912s,61.42MB,,,,,,,,,,,,,,,,
+,Selection,1233s,15.74MB,,Selection,2557s,61.42MB,,,,,,,,,,,,,,,,
+,Insertion,694.5s,15.74MB,,Insertion,1640s,61.42MB,,,,,,,,,,,,,,,,
+,Merge,0.314s,17.76MB,,Merge,0.55s,61.42MB,,,,,,,,,,,,,,,,
+,Quick,0.198s,17.78MB,,Quick,0.347s,61.42MB,,,,,,,,,,,,,,,,
+,Shell,0.340s,17.78MB,,Shell,0.554s,61.42MB,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,Kata,,,,,,,,,,,,,,,,,,,,,,
+,Jumlah Data ,10.000,,,Jumlah Data ,50.000,,,Jumlah Data ,100.000,,,Jumlah Data ,250.000,,,Jumlah Data ,500.000,,,Jumlah Data ,1.000.000,
+,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory
+,Bubble ,0.08s,5.23MB,,Bubble ,2.16s,8.06MB,,Bubble ,11.22s,11.39MB,,Bubble ,92.1s,21.55MB,,Bubble ,423.7s,33.68MB,,Bubble ,1651s,61.96MB
+,Selection,0.054s,5.25MB,,Selection,1.4s,8.06MB,,Selection,4.7s,11.42MB,,Selection,26.3s,21.55MB,,Selection,144.2s,33.68MB,,Selection,615.9s,65.85MB
+,Insertion,0.027s,5.25MB,,Insertion,0.7s,8.06MB,,Insertion,2.6s,11.46MB,,Insertion,21.5s,21.55MB,,Insertion,94.6s,34.64MB,,Insertion,207s,65.91MB
+,Merge,0.001s,5.25MB,,Merge,0.009s,8.14MB,,Merge,0.023s,11.86MB,,Merge,0.055s,21.55MB,,Merge,0.084s,35.83MB,,Merge,0.152s,67.24MB
+,Quick,0.002s,5.25MB,,Quick,0.005s,8.14MB,,Quick,0.013s,11.86MB,,Quick,0.057s,21.56MB,,Quick,0.189s,35.83MB,,Quick,0.89s,67.24MB
+,Shell,0.001s,5.25MB,,Shell,0.006s,8.14MB,,Shell,0.012s,11.86MB,,Shell,0.031s,21.56MB,,Shell,0.064s,35.83MB,,Shell,0.22s,68.51MB
+,,,,,,,,,,,,,,,,,,,,,,,
+,Jumlah Data ,1.500.000,,,Jumlah Data ,2.000.000,,,,,,,,,,,,,,,,,
+,Metode Sorting,Waktu,Memory,,Metode Sorting,Waktu,Memory,,,,,,,,,,,,,,,,
+,Bubble ,4112s,81.52MB,,Bubble ,6394s,104.12MB,,,,,,,,,,,,,,,,
+,Selection,937s,81.52MB,,Selection,1985s,104.12MB,,,,,,,,,,,,,,,,
+,Insertion,610s,83.68MB,,Insertion,1231s,104.12MB,,,,,,,,,,,,,,,,
+,Merge,0.294s,83.71MB,,Merge,0.452s,107.17MB,,,,,,,,,,,,,,,,
+,Quick,0.1s,85.35Mb,,Quick,0.277s,107.19MB,,,,,,,,,,,,,,,,
+,Shell,0.214s,85.35Mb,,Shell,0.512s,107.19MB,,,,,,,,,,,,,,,,
