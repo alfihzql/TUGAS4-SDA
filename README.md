@@ -20,7 +20,7 @@ Dalam repository ini terdapat 3 file utama yaitu :
 - main_angka.c (file untuk melakukan generate angka)
 - main_kata.c (file untuk melakukan generate kata)
 
-*Folder docs berisi laporan dan data sheets eksperimen*
+*Folder docs berisi laporan dan data sheets eksperimen.*
 
 ## 🧮Cara Menjalankan
 
@@ -36,7 +36,7 @@ Compile (untuk kata) :
 gcc -o main_b main_kata.c -lpsapi
 ```
 
-Note : Cara compile kemungkinan berbeda untuk setiap sistem operasi. dikarenakan flags ```-lpsapi``` kemungkinan tidak berjalan untuk sistem operasi Linux.
+*Note : Cara compile kemungkinan berbeda untuk setiap sistem operasi. Dikarenakan flags ```-lpsapi``` kemungkinan tidak berjalan untuk sistem operasi Linux.*
 
 # Terimakasih
 
