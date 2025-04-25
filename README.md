@@ -23,7 +23,7 @@ Dalam repository ini terdapat 3 file utama yaitu :
 - main_angka.c (file untuk melakukan generate angka)
 - main_kata.c (file untuk melakukan generate kata)
 
-<i>*Folder docs berisi laporan dan data sheets eksperimen</i>
+<i><p>*Folder docs berisi laporan dan data sheets eksperimen</p></i>
 ---
 
 ### Cara Menjalankan
