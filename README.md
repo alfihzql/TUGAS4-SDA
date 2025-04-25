@@ -30,26 +30,16 @@ Dalam repository ini terdapat 3 file utama yaitu :
 Untuk menjalankan file source code, 3 file utama harus dalam satu folder yang sama.
 
 Compile (untuk angka) :
-<iframe
-  src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=boxy&l=powershell&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=gcc%2520-o%2520main_a%2520main_angka.c%2520-lpsapi"
-  style="width: 422px; height: 190px; border:0; transform: scale(1); overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</iframe>
+```c
+gcc -o main_a main_angka.c -lpsapi
+```
 
 Compile (untuk kata) :
-<iframe
-  src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=boxy&l=powershell&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=gcc%2520-o%2520main_b%2520main_kata.c%2520-lpsapi"
-  style="width: 413px; height: 190px; border:0; transform: scale(1); overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</iframe>
+```c
+gcc -o main_b main_kata.c -lpsapi
+```
 
 Note : Cara compile kemungkinan berbeda untuk setiap sistem operasi. dikarenakan flags ```-lpsapi``` kemungkinan tidak berjalan untuk sistem operasi Linux.
 
-### Data Analisa
-
-Data Analisa Angka
-
-<div align="center">
-    <img src"https://github.com/alfihzql/TUGAS4-SDA/blob/main/images/data1.png">
-</div>
+### Terimakasih
 
