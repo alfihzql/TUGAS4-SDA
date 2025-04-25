@@ -5,17 +5,17 @@
 ### Nama  : Muhammad Hizqil Alfi
 ### NPM   : 2308107010046
 
-### 📄Deskripsi
+## 📄Deskripsi
 ---
 
 Repository ini memuat source code serta hasil analisis terhadap waktu eksekusi dan penggunaan memori dari berbagai metode pengurutan (sorting). Seluruh implementasi ditulis menggunakan bahasa pemrograman C.
 
-### 📌Tujuan
+## 📌Tujuan
 ---
 
 Mengukur dan membandingkan performa berbagai algoritma sorting (pengurutan), baik untuk data angka maupun kata acak, dalam hal waktu eksekusi dan penggunaan memori.
 
-### 📁File
+## 📁File
 ---
 
 Dalam repository ini terdapat 3 file utama yaitu : 
@@ -25,16 +25,14 @@ Dalam repository ini terdapat 3 file utama yaitu :
 
 *Folder docs berisi laporan dan data sheets eksperimen*
 
-### 🧮Cara Menjalankan
+## 🧮Cara Menjalankan
 ---
 
 Untuk menjalankan file source code, 3 file utama harus dalam satu folder yang sama.
 
 Compile (untuk angka) :
-```c
-gcc -o main_a main_angka.c -lpsapi
-```
-![image](https://github.com/user-attachments/assets/ea7f81da-943b-45c8-ad55-0a9bba5615a7)
+![image](https://github.com/user-attachments/assets/88b59fd1-0842-4ad0-b9a2-f7946826553f)
+
 
 
 Compile (untuk kata) :
