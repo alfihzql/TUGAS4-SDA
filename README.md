@@ -1,13 +1,11 @@
-<div align="center">
-    <h2>Tugas 4 - Struktur Data dan Algoritma</h2>
-</div>
+# Tugas 4 - Struktur Data dan Algoritma
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/-C-0373fc?logo=c&logoColor=white&style=for-the-badge">
 </div>    
 
-#### Nama  : Muhammad Hizqil Alfi
-#### NPM   : 2308107010046
+### Nama  : Muhammad Hizqil Alfi
+### NPM   : 2308107010046
 
 ### Deskripsi
 
