@@ -13,17 +13,16 @@
 
 Repository ini memuat source code serta hasil analisis terhadap waktu eksekusi dan penggunaan memori dari berbagai metode pengurutan (sorting). Seluruh implementasi ditulis menggunakan bahasa pemrograman C.
 
+### Tujuan
+
+Mengukur dan membandingkan performa berbagai algoritma sorting (pengurutan), baik untuk data angka maupun kata acak, dalam hal waktu eksekusi dan penggunaan memori.
+
 ### File
 
-Dalam repository ini terdapat 3 file utama yaitu :
-1. sort_combined.h (file header)
-2. main_angka.c (file untuk melakukan generate angka)
-3. main_kata.c (file untuk melakukan generate kata)
-
-### Spesifikasi Sistem Yang Digunakan
-
-1. Ryzen 5 8645HS - 8GB RAM
-2. i5 8250U - 8GB RAM
+Dalam repository ini terdapat 3 file utama yaitu : 
+- sort_combined.h (file header)
+- main_angka.c (file untuk melakukan generate angka)
+- main_kata.c (file untuk melakukan generate kata)
 
 ### Cara Menjalankan
 
